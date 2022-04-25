@@ -78,7 +78,6 @@ html {
 
   .nav a:hover{
       color: var(--amarillo);
-      color: var(--oscuro);
       border-radius: .5rem;
   }
 
