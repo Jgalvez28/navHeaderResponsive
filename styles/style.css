@@ -48,6 +48,10 @@ html {
       font-size: 1.8rem;
   }
 
+  .headerTitle{
+      margin: 1rem 0;
+  }
+
   .navBg{
       background-color: var(--azul);
   }
